@@ -10,8 +10,8 @@ So your server configurations should look like this:
 ```
     <featureManager>
     	<feature>localConnector-1.0</feature>
-		<feature>mpOpenAPI-1.0</feature>
-	</featureManager>
+	<feature>mpOpenAPI-1.0</feature>
+    </featureManager>
 ```
 
 2. Clone this repository.
