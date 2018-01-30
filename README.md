@@ -33,7 +33,7 @@ So your server configurations should look like this:
 ```
 $ mvn clean test
 ```
-2. To run a specific test, use the ``-Dtest`` argument to specify the test class you would like to run. Suppose you have a class called ``ExampleTest.java``, then you would use the following commamnd:
+2. To run a specific test, use the ``-Dtest`` argument to specify the test class you would like to run. Suppose you have a class called ``ExampleTest.java``, then you would use the following command:
 ```
 $ mvn clean test -Dtest=ExampleTest
 ```
